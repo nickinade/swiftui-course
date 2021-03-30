@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		876D900F2613342F00997DD4 /* ColorView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 876D900E2613342F00997DD4 /* ColorView.swift */; };
+		876D9012261334C600997DD4 /* ColorSlider.swift in Sources */ = {isa = PBXBuildFile; fileRef = 876D9011261334C600997DD4 /* ColorSlider.swift */; };
 		87A51293260CF28500C1FCF8 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 87A51292260CF28500C1FCF8 /* AppDelegate.swift */; };
 		87A51295260CF28500C1FCF8 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 87A51294260CF28500C1FCF8 /* SceneDelegate.swift */; };
 		87A51297260CF28500C1FCF8 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 87A51296260CF28500C1FCF8 /* ContentView.swift */; };
@@ -16,6 +18,8 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		876D900E2613342F00997DD4 /* ColorView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ColorView.swift; sourceTree = "<group>"; };
+		876D9011261334C600997DD4 /* ColorSlider.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ColorSlider.swift; sourceTree = "<group>"; };
 		87A5128F260CF28500C1FCF8 /* SwiftUICourse.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SwiftUICourse.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		87A51292260CF28500C1FCF8 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		87A51294260CF28500C1FCF8 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -59,6 +63,8 @@
 				87A51292260CF28500C1FCF8 /* AppDelegate.swift */,
 				87A51294260CF28500C1FCF8 /* SceneDelegate.swift */,
 				87A51296260CF28500C1FCF8 /* ContentView.swift */,
+				876D900E2613342F00997DD4 /* ColorView.swift */,
+				876D9011261334C600997DD4 /* ColorSlider.swift */,
 				87A51298260CF28600C1FCF8 /* Assets.xcassets */,
 				87A5129D260CF28600C1FCF8 /* LaunchScreen.storyboard */,
 				87A512A0260CF28600C1FCF8 /* Info.plist */,
@@ -145,6 +151,8 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				876D900F2613342F00997DD4 /* ColorView.swift in Sources */,
+				876D9012261334C600997DD4 /* ColorSlider.swift in Sources */,
 				87A51293260CF28500C1FCF8 /* AppDelegate.swift in Sources */,
 				87A51295260CF28500C1FCF8 /* SceneDelegate.swift in Sources */,
 				87A51297260CF28500C1FCF8 /* ContentView.swift in Sources */,
